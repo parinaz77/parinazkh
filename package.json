@@ -25,5 +25,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-  }
+  },
+  "engines": {
+    "node": "7.2.0"
+  },
 }
