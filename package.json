@@ -8,6 +8,9 @@
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -25,8 +28,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-  },
-  "engines": {
-    "node": "7.2.0"
-  },
+  }
 }
