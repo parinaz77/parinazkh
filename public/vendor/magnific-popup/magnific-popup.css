@@ -349,3 +349,16 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+
+.padding{
+  padding-top: 5px;
+}
+
+.p-text {
+  height: 200px;
+}
+
+.img-h {
+  height: 300px !important;
+}
