@@ -356,10 +356,15 @@ img.mfp-img {
 }
 
 .p-text {
-  height: 220px;
+  height: 250px;
 
 }
 
 .img-h {
   height: 300px !important;
+}
+
+.my-center {
+  margin: auto;
+  width:100%;
 }
