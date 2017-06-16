@@ -357,6 +357,8 @@ img.mfp-img {
 
 .p-text {
   height: 250px;
+  padding-right: 10px;
+  padding-left: 10px;
 
 }
 
